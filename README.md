@@ -69,7 +69,8 @@ I’m a BSIT student at STI College Naga. Throughout my academic journey, I have
 #
 
 ### Capstone Project
-<p>Our Best Capstone Project</p>
+Labirinto: An Interactive Game-Based Learning Tool for Araling Panlipunan 7
+A top-down 2D RPG mobile game that makes learning Grade 7 history fun and interactive. Aligned with the MATATAG Curriculum, it enhances student engagement and understanding — awarded Best Capstone Project.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manifesters&repo=Labirinto&theme=dark&hide_border=true&bg_color=242938&show_owner=true)](https://github.com/manifesters/Labirinto)
 
