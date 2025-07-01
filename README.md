@@ -76,17 +76,17 @@ A top-down 2D RPG mobile game that makes learning Grade 7 history fun and intera
 
 #
 
-### 💻 Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,java,py)](https://skillicons.dev)
+### 💻 Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,java)](https://skillicons.dev)
 
 ### 🧰 Software and Tools
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,vscode,visualstudio,blender,git,github,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,vscode,visualstudio,blender,git,github,xd,figma,docker,bash)](https://skillicons.dev)
 
 ### 💿 Operating System
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,mint,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,mint,windows)](https://skillicons.dev)
 
 ### 👨‍💻 Studying
-[![Learning](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
 
 #
 
